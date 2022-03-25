@@ -1,0 +1,18 @@
+Remove Pin=U1-15 From Net=PB3
+Remove Pin=U1-16 From Net=PB4
+Remove Pin=U1-17 From Net=PB5
+Remove Pin=U1-18 From Net=AVCC
+Remove Pin=U1-23 From Net=ADC0
+Remove Pin=U1-24 From Net=ADC1
+Remove Pin=U1-25 From Net=ADC2
+Remove Pin=U1-29 From Net=PC6
+Change Component Footprint: Designator=IC1 Old Footprint=SOIC127P600X175-8N New Footprint=ANALOG DEV SOIC-8 R8
+Change Component Footprint: Designator=IC1 Old Footprint=SOIC127P600X175-8N New Footprint=ANALOG DEV SOIC-8 R8
+Change Component Footprint: Designator=IC2 Old Footprint=SOIC127P600X175-8N New Footprint=ANALOG DEV SOIC-8 R8
+Change Component Footprint: Designator=IC2 Old Footprint=SOIC127P600X175-8N New Footprint=ANALOG DEV SOIC-8 R8
+Change Component Comment: Designator=C3 Old Comment=22pF New Comment=20pF
+Change Component Comment: Designator=C4 Old Comment==Value New Comment=20pF
+Change Component Comment: Designator=IC1 Old Comment=MCP6022T-I_SN New Comment=AD8542ARZ-REEL
+Change Component Comment: Designator=IC1 Old Comment=MCP6022T-I_SN New Comment=AD8542ARZ-REEL
+Change Component Comment: Designator=IC2 Old Comment=MCP6022T-I_SN New Comment=AD8542ARZ-REEL
+Change Component Comment: Designator=IC2 Old Comment=MCP6022T-I_SN New Comment=AD8542ARZ-REEL
